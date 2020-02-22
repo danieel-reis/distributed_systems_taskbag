@@ -1,0 +1,24 @@
+TaskBag apresenta uma lista de tarefas que podem ser feitas
+TaskBagImpl implementa essas listas de tarefas
+Task é do tipo serializável para ser enviado pela rede
+    Atributos de tarefa: id da tarefa
+                         id do proprietario
+                         id do trabalhador
+                         booleano pra saber se está sendo executada
+                         booleano pra saber foi terminada a tarefa
+                         linha atual da matriz
+                         coluna atual da matriz
+                         linha da matrizA, ou seja, todas células
+                         coluna da matrizB, ou seja, todas células
+                         valor que é o resultado da multiplição da linha da matrizA pela coluna da matrizB
+MultiplyMatriz é a classe que basicamente faz:
+    Recebe uma tarefa, executa e finaliza
+
+Cliente
+    Entra com os dados
+    Cria
+
+
+
+
+
